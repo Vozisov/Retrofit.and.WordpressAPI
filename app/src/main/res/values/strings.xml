@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SportActiv</string>
+    <string name="app_title">Спорт-новости</string>
+    <string name="app_full_name">Каждый день</string>
+
+    <string name="all_category">Все записи</string>
+    <string name="commentary">Комментарии:</string>
+</resources>
